@@ -12,7 +12,7 @@ public class MiSegundaClase {
 
         System.out.println("la persona: " + nombre + " ingreso el numero: " + numero1);
         
-        
+        pepe.close();   
     
     }
 }

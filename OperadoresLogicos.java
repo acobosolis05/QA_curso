@@ -36,7 +36,7 @@ public class OperadoresLogicos {
         System.out.println("si " + numero1 + " > "+ numero2 + " && " + numero3 + " > "+ numero4 + " entonces "+(numero1>numero2 && numero3>numero4));
         System.out.println("si " + numero1 + " > "+ numero2 + " || " + numero3 + " > "+ numero4 + " entonces "+(numero1>numero2 || numero3>numero4));
         
-
+        pepe.close();
 
     }
 }

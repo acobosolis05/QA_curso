@@ -20,7 +20,7 @@ public class MiterceraClase {
         System.out.println("la divison " + numero1 + " / "+ numero2 + " = " +(numero1/numero2));
         System.out.println("el modulo de la divison " + numero1 + " % "+ numero2 + " = " +(numero1%numero2));
 
-
+        pepe.close();
     
     }
 }

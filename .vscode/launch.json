@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ejercicio",
+            "request": "launch",
+            "mainClass": "ejercicio",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "determinarEdades",
+            "request": "launch",
+            "mainClass": "determinarEdades",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "calculoDescuento",
+            "request": "launch",
+            "mainClass": "calculoDescuento",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "verificacionContraseña",
+            "request": "launch",
+            "mainClass": "verificacionContraseña",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "divisibilidad",
+            "request": "launch",
+            "mainClass": "divisibilidad",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "calificacionTareas",
+            "request": "launch",
+            "mainClass": "calificacionTareas",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "clasificacionNumeros",
+            "request": "launch",
+            "mainClass": "clasificacionNumeros",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
             "name": "calculadoraTres",
             "request": "launch",
             "mainClass": "calculadoraTres",
