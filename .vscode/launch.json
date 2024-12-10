@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "calculadoraTres",
+            "request": "launch",
+            "mainClass": "calculadoraTres",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "calculadoraDos",
+            "request": "launch",
+            "mainClass": "calculadoraDos",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "calculadora",
+            "request": "launch",
+            "mainClass": "calculadora",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "desafioparImpar",
+            "request": "launch",
+            "mainClass": "desafioparImpar",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "MiPrimerPrograma",
+            "request": "launch",
+            "mainClass": "MiPrimerPrograma",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
             "name": "OperadoresLogicos",
             "request": "launch",
             "mainClass": "OperadoresLogicos"

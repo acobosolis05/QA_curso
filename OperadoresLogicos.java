@@ -4,10 +4,10 @@ public class OperadoresLogicos {
     public static void main(String[] args) {
         Scanner pepe = new Scanner(System.in);
         System.out.print("Ingrese un número: ");
-        float numero1 = pepe.nextInt();
+        int numero1 = pepe.nextInt();
 
         System.out.print("Ingrese un segundo numero: ");
-        float numero2 = pepe.nextInt();
+        int numero2 = pepe.nextInt();
 
         //operadores de comparacion
         System.out.println("OPERADORES DE COMPARACION");
@@ -29,9 +29,9 @@ public class OperadoresLogicos {
         
         
         System.out.print("Ingrese un tercer numero: ");
-        float numero3 = pepe.nextInt();
+        int numero3 = pepe.nextInt();
         System.out.print("Ingrese un cuarto numero: ");
-        float numero4 = pepe.nextInt();
+        int numero4 = pepe.nextInt();
         
         System.out.println("si " + numero1 + " > "+ numero2 + " && " + numero3 + " > "+ numero4 + " entonces "+(numero1>numero2 && numero3>numero4));
         System.out.println("si " + numero1 + " > "+ numero2 + " || " + numero3 + " > "+ numero4 + " entonces "+(numero1>numero2 || numero3>numero4));
