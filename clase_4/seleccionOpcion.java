@@ -17,16 +17,16 @@ public class seleccionOpcion {
         System.out.println("Opción 2: Cargar");
         System.out.println("Opción 3: Salir");
         System.out.print("Ingrese el número de la opción que desea seleccionar: ");
-        int opcion = sc.nextInt();
+        String opcion = sc.nextLine();
 
         switch (opcion) {
-            case 1:
+            case "1":
             System.out.println("Ha seleccionado la opción 1: Guardar");               
                 break;
-            case 2:
+            case "2":
             System.out.println("Ha seleccionado la opción 2: Cargar");
             break;
-            case 3:
+            case "3":
             System.out.println("Ha seleccionado la opción 3: Salir");
             break;
         
