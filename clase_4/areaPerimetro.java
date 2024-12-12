@@ -9,11 +9,11 @@ public class areaPerimetro {
         System.out.println("1. Círculo");
         System.out.println("2. Rectangulo");
         System.out.print("por favor seleccione la figura geormetrica: ");
-        int figura = sc.nextInt();
+        String figura = sc.nextLine();
         
 
         switch (figura) {
-            case 1:
+            case "1":
             System.out.println("la figura seleccionada es el circulo");
             System.out.print("por favor ingrese el radio del círculo: ");
             double radio = sc.nextDouble();
@@ -21,7 +21,7 @@ public class areaPerimetro {
             double perimetro = 2 * Math.PI * radio;
             System.out.println("el area del círculo es: " + area + " y el perimetro es: " + perimetro);
             break;
-            case 2:
+            case "2":
             System.out.println("la figura seleccionada es el rectangulo");
             System.out.print("por favor ingrese la base del rectangulo: ");
             double base = sc.nextDouble();
