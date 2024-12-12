@@ -1,3 +1,4 @@
+package clase_5;
 // Escribe un programa que solicite al usuario ingresar una cadena de caracteres que 
 // represente un número entero. Utiliza el método Integer.parseInt() para convertir 
 // la cadena en un número entero. Implementa un bloque "try-catch" para manejar 
