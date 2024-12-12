@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "practica",
+            "request": "launch",
+            "mainClass": "clase_4.practica",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "areaPerimetro",
+            "request": "launch",
+            "mainClass": "clase_4.areaPerimetro",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "diaHabil",
+            "request": "launch",
+            "mainClass": "clase_4.diaHabil",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "figuraGeometrica",
+            "request": "launch",
+            "mainClass": "clase_4.figuraGeometrica",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "seleccionOpcion",
+            "request": "launch",
+            "mainClass": "seleccionOpcion",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "conversionCalificaciones",
+            "request": "launch",
+            "mainClass": "clase_4.conversionCalificaciones",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "diaSemana",
+            "request": "launch",
+            "mainClass": "clase_4.diaSemana",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
+            "name": "diaSemana",
+            "request": "launch",
+            "mainClass": "diaSemana",
+            "projectName": "intro_Java_d3d1121"
+        },
+        {
+            "type": "java",
             "name": "ejercicio",
             "request": "launch",
             "mainClass": "ejercicio",
