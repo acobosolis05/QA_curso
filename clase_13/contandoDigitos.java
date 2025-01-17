@@ -14,11 +14,10 @@ public class contandoDigitos {
         for (int i = 0; i < cadena.length(); i++) {
             char caracter = cadena.charAt(i);
             if (Character.isDigit(caracter)) {
-                contador++;
-                
+                contador++;                
     }
                 }
-    System.out.println("el numero "+num+ " ingresado tiene " + contador);
+    System.out.println("el numero "+ num + " ingresado tiene " + contador);
                 
     sc.close();
 }
