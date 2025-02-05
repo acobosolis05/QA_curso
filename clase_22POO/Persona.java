@@ -1,4 +1,4 @@
-package clase_21POO;
+package clase_22POO;
 
 public class Persona {
     String nombre;
