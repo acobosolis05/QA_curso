@@ -3,12 +3,12 @@ package clase_25POO;
 
 
 public class Biblioteca {
-    private String nombre;
+    // private String nombre;
     private Libro[] libros;
     private int cantidadLibros;
 
     public Biblioteca(String nombre, int capacidad) {
-        this.nombre = nombre;
+        // this.nombre = nombre;
         this.libros = new Libro[capacidad];
         this.cantidadLibros = 0;
     }
